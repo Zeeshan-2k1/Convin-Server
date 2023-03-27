@@ -1,4 +1,57 @@
 {
-  "buckets": [],
-  "history": []
+  "buckets": [
+    {
+      "id": "8e7a9eb4-bc21-4342-80ae-f2c4564048e6",
+      "title": "Learning",
+      "description": "This is a mock bucket for learning",
+      "createdAt": "1679919898158",
+      "updatedAt": "1679919898158",
+      "playCards": [
+        {
+          "title": "React.js",
+          "description": "This is React.js mock tutorial video",
+          "url": "https://www.youtube.com/embed/wN0n2gj0z9o",
+          "createdAt": "1679919898158",
+          "updatedAt": "1679919898158",
+          "bucket": "8e7a9eb4-bc21-4342-80ae-f2c4564048e6"
+        },
+        {
+          "title": "Next.js",
+          "description": "This is Next.js mock tutorial video",
+          "url": "https://www.youtube.com/embed/KjY94sAKLlw",
+          "createdAt": "1679919898158",
+          "updatedAt": "1679919898158",
+          "bucket": "8e7a9eb4-bc21-4342-80ae-f2c4564048e6"
+        }
+      ]
+    },
+    {
+      "id": "8e7a9eb4-bc21-4342-80ae-f2c45656ac7",
+      "title": "Entertainment",
+      "description": "This is a mock bucket for entertainment",
+      "createdAt": "1679919898158",
+      "updatedAt": "1679919898158",
+      "playCards": [
+        {
+          "title": "Music",
+          "description": "This is lofi music video",
+          "url": "https://www.youtube.com/embed/jfKfPfyJRdk",
+          "createdAt": "1679919898158",
+          "updatedAt": "1679919898158",
+          "bucket": "8e7a9eb4-bc21-4342-80ae-f2c45656ac7"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "title": "Music",
+      "description": "This is lofi music video",
+      "url": "https://www.youtube.com/embed/jfKfPfyJRdk",
+      "createdAt": "1679919898158",
+      "updatedAt": "1679919898158",
+      "bucket": "8e7a9eb4-bc21-4342-80ae-f2c45656ac7",
+      "lastPlayTime": "1679920182137"
+    }
+  ]
 }
