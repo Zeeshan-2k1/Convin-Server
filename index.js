@@ -5,7 +5,7 @@ const fs = require('fs');
 const fileupload = require('express-fileupload');
 
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router('/tmp/db.json');
 const middlewares = jsonServer.defaults();
 
 server.use(cors());
