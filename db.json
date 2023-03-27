@@ -8,6 +8,7 @@
       "updatedAt": "1679919898158",
       "playCards": [
         {
+          "id": "7fe0d927-cb07-444b-bf8e-f14eab60ed64",
           "title": "React.js",
           "description": "This is React.js mock tutorial video",
           "url": "https://www.youtube.com/embed/wN0n2gj0z9o",
@@ -16,6 +17,7 @@
           "bucket": "8e7a9eb4-bc21-4342-80ae-f2c4564048e6"
         },
         {
+          "id": "ad88d614-5bef-40d4-9352-5081b1bd5486",
           "title": "Next.js",
           "description": "This is Next.js mock tutorial video",
           "url": "https://www.youtube.com/embed/KjY94sAKLlw",
@@ -33,6 +35,7 @@
       "updatedAt": "1679919898158",
       "playCards": [
         {
+          "id": "663704b7-7d97-4123-bc61-143c8c12e085",
           "title": "Music",
           "description": "This is lofi music video",
           "url": "https://www.youtube.com/embed/jfKfPfyJRdk",
@@ -45,6 +48,7 @@
   ],
   "history": [
     {
+      "id": "663704b7-7d97-4123-bc61-143c8c12e085",
       "title": "Music",
       "description": "This is lofi music video",
       "url": "https://www.youtube.com/embed/jfKfPfyJRdk",
